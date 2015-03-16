@@ -55,3 +55,58 @@ I, [2015-03-16T00:36:47.715729 #8199]  INFO -- : - added file ./_posts/2015-03-1
 I, [2015-03-16T00:36:47.727990 #8199]  INFO -- : - added file ./_posts/2015-03-16-linq-and-c-dealing-with-a-potentially-null-parameter.md
 I, [2015-03-16T00:36:47.742775 #8199]  INFO -- : - added file ./_posts/2015-03-16-is-timezone-getdstsavings-in-java-returns-always-positive-value.md
 I, [2015-03-16T00:36:47.765594 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-can-i-diagnose-missing-dependencies-or-other-loader-failures-in-dnx.md
+I, [2015-03-16T00:59:24.832248 #28129]  INFO -- : fetching information for jon-skeet via stackoverflow api
+I, [2015-03-16T00:59:35.363904 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/7747063/
+I, [2015-03-16T00:59:38.701246 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29059175/
+I, [2015-03-16T00:59:42.048481 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29050441/
+I, [2015-03-16T00:59:45.419007 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29049431/
+I, [2015-03-16T00:59:48.790407 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29049420/
+I, [2015-03-16T00:59:52.095184 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29048868/
+I, [2015-03-16T00:59:55.439903 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29042892/
+I, [2015-03-16T00:59:58.785887 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29041322/
+I, [2015-03-16T01:00:02.116663 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29040850/
+I, [2015-03-16T01:00:05.551658 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/605215/
+I, [2015-03-16T01:00:08.897084 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29040250/
+I, [2015-03-16T01:00:12.241332 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29039991/
+I, [2015-03-16T01:00:15.586749 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29039821/
+I, [2015-03-16T01:00:18.935261 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29039425/
+I, [2015-03-16T01:00:22.236872 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29038411/
+I, [2015-03-16T01:00:25.566471 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29038335/
+I, [2015-03-16T01:00:28.946232 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29037425/
+I, [2015-03-16T01:00:32.417475 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29033855/
+I, [2015-03-16T01:00:35.762242 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29033758/
+I, [2015-03-16T01:00:39.080382 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29033620/
+I, [2015-03-16T01:00:42.545548 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29033453/
+I, [2015-03-16T01:00:45.882044 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29030741/
+I, [2015-03-16T01:00:49.221051 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29027316/
+I, [2015-03-16T01:00:52.579336 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29026712/
+I, [2015-03-16T01:00:55.900881 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29012130/
+I, [2015-03-16T01:00:59.286183 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29010286/
+I, [2015-03-16T01:01:02.646729 #28129]  INFO -- : - downloading http://stackoverflow.com/questions/29007962/
+I, [2015-03-16T01:01:02.677797 #28129]  INFO -- : - added file ./_posts/2015-03-16-how-does-the-new-async-await-feature-in-c-5-integrate-with-the-message-loop.md
+I, [2015-03-16T01:01:02.689708 #28129]  INFO -- : - added file ./_posts/2015-03-16-check-system-nullreferenceexception.md
+I, [2015-03-16T01:01:02.708009 #28129]  INFO -- : - added file ./_posts/2015-03-16-why-is-it-possible-for-objects-to-change-the-value-of-class-variables.md
+I, [2015-03-16T01:01:02.722920 #28129]  INFO -- : - added file ./_posts/2015-03-16-php-datetime-converting-issue.md
+I, [2015-03-16T01:01:02.735326 #28129]  INFO -- : - added file ./_posts/2015-03-16-java-jar-executable-not-opening-on-double-click.md
+I, [2015-03-16T01:01:02.747957 #28129]  INFO -- : - added file ./_posts/2015-03-16-linq-error-string-does-not-contain-a-definition-for-except.md
+I, [2015-03-16T01:01:02.761942 #28129]  INFO -- : - added file ./_posts/2015-03-16-how-do-i-build-a-method-that-returns-an-action-with-a-constrained-parameter.md
+I, [2015-03-16T01:01:02.774687 #28129]  INFO -- : - added file ./_posts/2015-03-16-why-can-t-select-come-first-in-a-linq-query.md
+I, [2015-03-16T01:01:02.790264 #28129]  INFO -- : - added file ./_posts/2015-03-16-unable-to-cast-object-of-type-system-windows-forms-textbox-to-type-system-iconvertible-error.md
+I, [2015-03-16T01:01:02.811932 #28129]  INFO -- : - added file ./_posts/2015-03-16-best-java-ide-for-visual-studio-fan-closed.md
+I, [2015-03-16T01:01:02.824728 #28129]  INFO -- : - added file ./_posts/2015-03-16-enumerable-zip-to-enforce-same-lengths.md
+I, [2015-03-16T01:01:02.841137 #28129]  INFO -- : - added file ./_posts/2015-03-16-tz-database-and-multiple-us-timezones.md
+I, [2015-03-16T01:01:02.853824 #28129]  INFO -- : - added file ./_posts/2015-03-16-home-much-memory-does-the-jvm-need-to-allocate-a-character-array.md
+I, [2015-03-16T01:01:02.868514 #28129]  INFO -- : - added file ./_posts/2015-03-16-startswith-and-contains-are-returning-null-when-comparing-dates.md
+I, [2015-03-16T01:01:02.880292 #28129]  INFO -- : - added file ./_posts/2015-03-16-error-when-installing-nuget-package-microsoft-aspnet-http-extensions-1-0-0-beta3.md
+I, [2015-03-16T01:01:02.892525 #28129]  INFO -- : - added file ./_posts/2015-03-16-constant-value-cannot-be-converted-to-int.md
+I, [2015-03-16T01:01:02.906280 #28129]  INFO -- : - added file ./_posts/2015-03-16-something-is-wrong-with-my-code.md
+I, [2015-03-16T01:01:02.920361 #28129]  INFO -- : - added file ./_posts/2015-03-16-cannot-get-this-property-name-using-this-code-and-expression-api.md
+I, [2015-03-16T01:01:02.935772 #28129]  INFO -- : - added file ./_posts/2015-03-16-what-is-the-purpose-of-escape-sequence-in-java.md
+I, [2015-03-16T01:01:02.958618 #28129]  INFO -- : - added file ./_posts/2015-03-16-why-does-joining-5-threads-at-once-result-in-simultaneous-activity.md
+I, [2015-03-16T01:01:02.978102 #28129]  INFO -- : - added file ./_posts/2015-03-16-how-to-bit-shift-and-concatenate-to-get-correct-result.md
+I, [2015-03-16T01:01:02.995489 #28129]  INFO -- : - added file ./_posts/2015-03-16-ios-timezone-issue-on-local-timezone-of-iphone-device.md
+I, [2015-03-16T01:01:03.020183 #28129]  INFO -- : - added file ./_posts/2015-03-16-can-i-use-value-of-a-local-variable-defined-in-a-method-in-other-method-in-java.md
+I, [2015-03-16T01:01:03.037708 #28129]  INFO -- : - added file ./_posts/2015-03-16-list-to-dictionary-key-list-value-c.md
+I, [2015-03-16T01:01:03.052781 #28129]  INFO -- : - added file ./_posts/2015-03-16-linq-and-c-dealing-with-a-potentially-null-parameter.md
+I, [2015-03-16T01:01:03.068031 #28129]  INFO -- : - added file ./_posts/2015-03-16-is-timezone-getdstsavings-in-java-returns-always-positive-value.md
+I, [2015-03-16T01:01:03.092731 #28129]  INFO -- : - added file ./_posts/2015-03-16-how-can-i-diagnose-missing-dependencies-or-other-loader-failures-in-dnx.md
