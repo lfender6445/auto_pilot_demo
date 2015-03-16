@@ -8,6 +8,10 @@
 2. `bundle exec jekyll serve`
 3. visit [localhost:4000](http://localhost:4000) to see the app in action
 
+# screenshots
+![view all posts](http://i.imgur.com/S6z3NjI.png)
+![view single post](http://i.imgur.com/6LZsDEH.png)
+
 # how to integrate autopilot
 
 1. [add auto_pilot dependency](https://github.com/lfender6445/auto_pilot_demo/blob/master/Gemfile#L7)
