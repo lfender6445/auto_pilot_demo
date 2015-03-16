@@ -1,0 +1,57 @@
+# Logfile created on 2015-03-15 12:58:53 -0400 by logger.rb/44203
+I, [2015-03-15T12:58:53.320678 #31649]  INFO -- : fetching information for jon-skeet via stackoverflow api
+I, [2015-03-16T00:35:09.523864 #8199]  INFO -- : fetching information for jon-skeet via stackoverflow api
+I, [2015-03-16T00:35:19.591443 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/7747063/
+I, [2015-03-16T00:35:22.927119 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29059175/
+I, [2015-03-16T00:35:26.280368 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29050441/
+I, [2015-03-16T00:35:29.676527 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29049431/
+I, [2015-03-16T00:35:33.013204 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29049420/
+I, [2015-03-16T00:35:36.357022 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29048868/
+I, [2015-03-16T00:35:39.676833 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29042892/
+I, [2015-03-16T00:35:43.014934 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29041322/
+I, [2015-03-16T00:35:46.396264 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29040850/
+I, [2015-03-16T00:35:49.828870 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/605215/
+I, [2015-03-16T00:35:53.195491 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29040250/
+I, [2015-03-16T00:35:56.548002 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29039991/
+I, [2015-03-16T00:35:59.961682 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29039821/
+I, [2015-03-16T00:36:03.332703 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29039425/
+I, [2015-03-16T00:36:06.637579 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29038411/
+I, [2015-03-16T00:36:09.973047 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29038335/
+I, [2015-03-16T00:36:13.446694 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29037425/
+I, [2015-03-16T00:36:16.780577 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29033855/
+I, [2015-03-16T00:36:20.226886 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29033758/
+I, [2015-03-16T00:36:23.636912 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29033620/
+I, [2015-03-16T00:36:26.991318 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29033453/
+I, [2015-03-16T00:36:30.365005 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29030741/
+I, [2015-03-16T00:36:33.704052 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29027316/
+I, [2015-03-16T00:36:37.054005 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29026712/
+I, [2015-03-16T00:36:40.356958 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29012130/
+I, [2015-03-16T00:36:43.882163 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29010286/
+I, [2015-03-16T00:36:47.276217 #8199]  INFO -- : - downloading http://stackoverflow.com/questions/29007962/
+I, [2015-03-16T00:36:47.309216 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-does-the-new-async-await-feature-in-c-5-integrate-with-the-message-loop.md
+I, [2015-03-16T00:36:47.322300 #8199]  INFO -- : - added file ./_posts/2015-03-16-check-system-nullreferenceexception.md
+I, [2015-03-16T00:36:47.341692 #8199]  INFO -- : - added file ./_posts/2015-03-16-why-is-it-possible-for-objects-to-change-the-value-of-class-variables.md
+I, [2015-03-16T00:36:47.358915 #8199]  INFO -- : - added file ./_posts/2015-03-16-php-datetime-converting-issue.md
+I, [2015-03-16T00:36:47.376214 #8199]  INFO -- : - added file ./_posts/2015-03-16-java-jar-executable-not-opening-on-double-click.md
+I, [2015-03-16T00:36:47.398133 #8199]  INFO -- : - added file ./_posts/2015-03-16-linq-error-string-does-not-contain-a-definition-for-except.md
+I, [2015-03-16T00:36:47.420524 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-do-i-build-a-method-that-returns-an-action-with-a-constrained-parameter.md
+I, [2015-03-16T00:36:47.443262 #8199]  INFO -- : - added file ./_posts/2015-03-16-why-can-t-select-come-first-in-a-linq-query.md
+I, [2015-03-16T00:36:47.471451 #8199]  INFO -- : - added file ./_posts/2015-03-16-unable-to-cast-object-of-type-system-windows-forms-textbox-to-type-system-iconvertible-error.md
+I, [2015-03-16T00:36:47.494378 #8199]  INFO -- : - added file ./_posts/2015-03-16-best-java-ide-for-visual-studio-fan-closed.md
+I, [2015-03-16T00:36:47.507298 #8199]  INFO -- : - added file ./_posts/2015-03-16-enumerable-zip-to-enforce-same-lengths.md
+I, [2015-03-16T00:36:47.524030 #8199]  INFO -- : - added file ./_posts/2015-03-16-tz-database-and-multiple-us-timezones.md
+I, [2015-03-16T00:36:47.538477 #8199]  INFO -- : - added file ./_posts/2015-03-16-home-much-memory-does-the-jvm-need-to-allocate-a-character-array.md
+I, [2015-03-16T00:36:47.554157 #8199]  INFO -- : - added file ./_posts/2015-03-16-startswith-and-contains-are-returning-null-when-comparing-dates.md
+I, [2015-03-16T00:36:47.569128 #8199]  INFO -- : - added file ./_posts/2015-03-16-error-when-installing-nuget-package-microsoft-aspnet-http-extensions-1-0-0-beta3.md
+I, [2015-03-16T00:36:47.583123 #8199]  INFO -- : - added file ./_posts/2015-03-16-constant-value-cannot-be-converted-to-int.md
+I, [2015-03-16T00:36:47.597451 #8199]  INFO -- : - added file ./_posts/2015-03-16-something-is-wrong-with-my-code.md
+I, [2015-03-16T00:36:47.614936 #8199]  INFO -- : - added file ./_posts/2015-03-16-cannot-get-this-property-name-using-this-code-and-expression-api.md
+I, [2015-03-16T00:36:47.633102 #8199]  INFO -- : - added file ./_posts/2015-03-16-what-is-the-purpose-of-escape-sequence-in-java.md
+I, [2015-03-16T00:36:47.652968 #8199]  INFO -- : - added file ./_posts/2015-03-16-why-does-joining-5-threads-at-once-result-in-simultaneous-activity.md
+I, [2015-03-16T00:36:47.669748 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-to-bit-shift-and-concatenate-to-get-correct-result.md
+I, [2015-03-16T00:36:47.683913 #8199]  INFO -- : - added file ./_posts/2015-03-16-ios-timezone-issue-on-local-timezone-of-iphone-device.md
+I, [2015-03-16T00:36:47.702419 #8199]  INFO -- : - added file ./_posts/2015-03-16-can-i-use-value-of-a-local-variable-defined-in-a-method-in-other-method-in-java.md
+I, [2015-03-16T00:36:47.715729 #8199]  INFO -- : - added file ./_posts/2015-03-16-list-to-dictionary-key-list-value-c.md
+I, [2015-03-16T00:36:47.727990 #8199]  INFO -- : - added file ./_posts/2015-03-16-linq-and-c-dealing-with-a-potentially-null-parameter.md
+I, [2015-03-16T00:36:47.742775 #8199]  INFO -- : - added file ./_posts/2015-03-16-is-timezone-getdstsavings-in-java-returns-always-positive-value.md
+I, [2015-03-16T00:36:47.765594 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-can-i-diagnose-missing-dependencies-or-other-loader-failures-in-dnx.md
