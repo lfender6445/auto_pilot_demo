@@ -17,3 +17,19 @@ AutoPilot.configure do |config|
   # integer - time to wait between http requests (optional, eg 3 is 3 seconds)
   config.throttle = 3
 end
+
+module AutoPilot
+  class MarkdownConverter
+
+    def md_template
+      @markdown ||= <<-BLOCK.unindent
+      #{front_matter unless AutoPilot.configuration.disable_front_matter}
+      #{h1_tag}
+      #{answer}
+      #{question}
+      BLOCK
+    end
+
+  end
+end
+
