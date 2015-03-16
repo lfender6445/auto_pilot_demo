@@ -1,7 +1,7 @@
 GEM
   remote: https://www.rubygems.org/
   specs:
-    auto_pilot (0.2.2)
+    auto_pilot (0.3.0)
       httparty (~> 0.11.0)
       nokogiri (~> 1.6.3.1)
       reverse_markdown (~> 0.7.0)
@@ -87,6 +87,6 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  auto_pilot (~> 0.2.2)
+  auto_pilot (~> 0.3.0)
   jekyll
   rake
