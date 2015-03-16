@@ -23,8 +23,8 @@
 5. resume by running `bundle exec autopilot`
 
 ## customize templates?
-- because ruby lets us reopen classes, we can use this to our advantage and modify the markdown template that gets generated from a markdown template.
+- because ruby lets us reopen classes, we can use this to our advantage and modify the markdown template that gets generated from
 - in its original form, the [template looks like this](https://github.com/lfender6445/auto_pilot/blob/master/lib/auto_pilot/markdown_converter.rb#L25)
-- on branch 'custom_templates', within this repo, we can reopen the class and switch answers with questions of vice versa to produce a custom template
+- on branch 'custom_templates', within this repo, we can reopen the class and switch answers with questions of vice versa to produce a custom template, adding it to `auto_pilot_config.rb`
 - the [updated confiugration can be seen here](https://github.com/lfender6445/auto_pilot_demo/blob/custom_templates/auto_pilot_config.rb#L21)
 - while we are only modifying the rules for markdown converter, the same rules apply to our [html templates](https://github.com/lfender6445/auto_pilot/blob/master/lib/auto_pilot/html_converter.rb#L27) as well
