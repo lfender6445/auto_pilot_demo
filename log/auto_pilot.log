@@ -55,3 +55,68 @@ I, [2015-03-16T00:36:47.715729 #8199]  INFO -- : - added file ./_posts/2015-03-1
 I, [2015-03-16T00:36:47.727990 #8199]  INFO -- : - added file ./_posts/2015-03-16-linq-and-c-dealing-with-a-potentially-null-parameter.md
 I, [2015-03-16T00:36:47.742775 #8199]  INFO -- : - added file ./_posts/2015-03-16-is-timezone-getdstsavings-in-java-returns-always-positive-value.md
 I, [2015-03-16T00:36:47.765594 #8199]  INFO -- : - added file ./_posts/2015-03-16-how-can-i-diagnose-missing-dependencies-or-other-loader-failures-in-dnx.md
+I, [2015-04-06T20:41:28.010076 #2821]  INFO -- : fetching information for id  via stackoverflow api
+I, [2015-04-06T20:41:28.010163 #2821]  INFO -- : fetching answers for page 1
+E, [2015-04-06T20:41:31.225288 #2821] ERROR -- : An error occured: undefined method `first' for nil:NilClass
+E, [2015-04-06T20:41:31.225373 #2821] ERROR -- : - AutoPilot will continue downloading your answers
+E, [2015-04-06T20:41:31.225423 #2821] ERROR -- : could not find answers for id 
+I, [2015-04-06T20:42:15.074446 #2985]  INFO -- : fetching information for id 22656 via stackoverflow api
+I, [2015-04-06T20:42:15.074558 #2985]  INFO -- : fetching answers for page 1
+I, [2015-04-06T20:42:21.779902 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29475725/
+I, [2015-04-06T20:42:25.117473 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29470435/
+I, [2015-04-06T20:42:28.471070 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29459693/
+I, [2015-04-06T20:42:31.845466 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/740709/
+I, [2015-04-06T20:42:35.207637 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29455174/
+I, [2015-04-06T20:42:38.550220 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29446845/
+I, [2015-04-06T20:42:41.898046 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29430545/
+I, [2015-04-06T20:42:45.255817 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/1362204/
+I, [2015-04-06T20:42:48.594552 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29435457/
+I, [2015-04-06T20:42:51.941551 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29424788/
+I, [2015-04-06T20:42:55.283623 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29423671/
+I, [2015-04-06T20:42:58.644519 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29420282/
+I, [2015-04-06T20:43:02.011342 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29420009/
+I, [2015-04-06T20:43:05.371280 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29418780/
+I, [2015-04-06T20:43:08.725151 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29414291/
+I, [2015-04-06T20:43:12.084024 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29414485/
+I, [2015-04-06T20:43:15.444325 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29414210/
+I, [2015-04-06T20:43:18.892504 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29413942/
+I, [2015-04-06T20:43:22.254334 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29413625/
+I, [2015-04-06T20:43:25.664272 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29404392/
+I, [2015-04-06T20:43:29.010446 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29398848/
+I, [2015-04-06T20:43:32.406681 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29398706/
+I, [2015-04-06T20:43:35.759634 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29398454/
+I, [2015-04-06T20:43:39.188298 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/5087955/
+I, [2015-04-06T20:43:42.582246 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/3967411/
+I, [2015-04-06T20:43:45.929408 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29395060/
+I, [2015-04-06T20:43:49.276008 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29394914/
+I, [2015-04-06T20:43:52.642206 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/6388315/
+I, [2015-04-06T20:43:56.065933 #2985]  INFO -- : - downloading http://stackoverflow.com/questions/29347822/
+I, [2015-04-06T20:43:56.089138 #2985]  INFO -- : - added file ./_posts/2015-04-06-java-net-malformedurlexception-protocol-not-found-reason.md
+I, [2015-04-06T20:43:56.102551 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-access-variables-from-private-bodies-in-java.md
+I, [2015-04-06T20:43:56.114743 #2985]  INFO -- : - added file ./_posts/2015-04-06-deserialize-json-string-to-object-c-net.md
+I, [2015-04-06T20:43:56.128826 #2985]  INFO -- : - added file ./_posts/2015-04-06-is-there-a-better-way-of-filling-a-generic-list-from-a-sql-dataadapter.md
+I, [2015-04-06T20:43:56.140039 #2985]  INFO -- : - added file ./_posts/2015-04-06-construct-a-hashmap-with-specific-value.md
+I, [2015-04-06T20:43:56.153053 #2985]  INFO -- : - added file ./_posts/2015-04-06-conversion-from-java-to-c-covariance-and-contravariance.md
+I, [2015-04-06T20:43:56.168329 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-do-i-print-an-instant-as-rfc2822-in-nodatime.md
+I, [2015-04-06T20:43:56.182569 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-remove-a-lambda-event-handler-duplicate.md
+I, [2015-04-06T20:43:56.201409 #2985]  INFO -- : - added file ./_posts/2015-04-06-exception-handling-in-java-using-finally.md
+I, [2015-04-06T20:43:56.212983 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-output-a-list-of-numbers-in-an-arraylist-without-outputting-the-brackets-and-commas.md
+I, [2015-04-06T20:43:56.224448 #2985]  INFO -- : - added file ./_posts/2015-04-06-is-it-possible-to-declare-a-global-varaible-and-initialize-it-in-a-function-c.md
+I, [2015-04-06T20:43:56.238838 #2985]  INFO -- : - added file ./_posts/2015-04-06-iterating-over-an-object-of-type-iterator-t.md
+I, [2015-04-06T20:43:56.251924 #2985]  INFO -- : - added file ./_posts/2015-04-06-return-new-set-for-one-class.md
+I, [2015-04-06T20:43:56.265292 #2985]  INFO -- : - added file ./_posts/2015-04-06-current-time-in-millisecond-in-mysql.md
+I, [2015-04-06T20:43:56.281450 #2985]  INFO -- : - added file ./_posts/2015-04-06-implementing-an-attribute-with-similar-behavior-to-compilerservices-callermemberattribute.md
+I, [2015-04-06T20:43:56.292937 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-remove-escape-extra-slash-in-java-properties.md
+I, [2015-04-06T20:43:56.305002 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-check-if-bool-is-false-in-a-loop.md
+I, [2015-04-06T20:43:56.318431 #2985]  INFO -- : - added file ./_posts/2015-04-06-c-anonymous-object-with-properties-from-dictionary.md
+I, [2015-04-06T20:43:56.328636 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-to-start-merged-net-application.md
+I, [2015-04-06T20:43:56.342281 #2985]  INFO -- : - added file ./_posts/2015-04-06-what-is-a-localized-message.md
+I, [2015-04-06T20:43:56.356607 #2985]  INFO -- : - added file ./_posts/2015-04-06-c-assign-array-to-another-array-copy-or-pointer-exchange.md
+I, [2015-04-06T20:43:56.370895 #2985]  INFO -- : - added file ./_posts/2015-04-06-unexpected-behavior-for-a-collection-of-an-instance.md
+I, [2015-04-06T20:43:56.383426 #2985]  INFO -- : - added file ./_posts/2015-04-06-getting-all-objects-with-same-key-from-a-multivaluemap.md
+I, [2015-04-06T20:43:56.400019 #2985]  INFO -- : - added file ./_posts/2015-04-06-is-it-okay-to-refer-to-this-in-the-constructor.md
+I, [2015-04-06T20:43:56.412303 #2985]  INFO -- : - added file ./_posts/2015-04-06-how-many-bytes-will-a-string-take-up.md
+I, [2015-04-06T20:43:56.424342 #2985]  INFO -- : - added file ./_posts/2015-04-06-weird-behaviour-of-compareto-gregoriancalendar-c.md
+I, [2015-04-06T20:43:56.436434 #2985]  INFO -- : - added file ./_posts/2015-04-06-maintainable-conversions.md
+I, [2015-04-06T20:43:56.451154 #2985]  INFO -- : - added file ./_posts/2015-04-06-deserializing-list-of-json-objects-to-poco-objects-in-c.md
+I, [2015-04-06T20:43:56.468499 #2985]  INFO -- : - added file ./_posts/2015-04-06-using-indexes-to-get-the-sum-of-all-the-elements-in-an-array-list-gives-unexpected-output-what-s-wrong-with-my-code.md

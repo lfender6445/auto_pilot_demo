@@ -2,8 +2,8 @@
 AutoPilot.configure do |config|
   # string or nil - your application key (optional, allows for more requests)
   config.key = nil
-  # string - a stackoverflow jon-skeet
-  config.user = 'jon-skeet'
+  # string - a user id, found in your stackoverflow profile url
+  config.user_id = '22656'
   # integer - score must be greater than threshold in order to qualify for download
   config.score_threshold = 0
   # string - where to put markdown or html files
