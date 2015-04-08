@@ -19,7 +19,7 @@
 
 1. [add auto_pilot as development dependency](https://github.com/lfender6445/auto_pilot_demo/blob/master/Gemfile#L7)
 2. run `bundle exec autopilot`
-3. enter a stackoverflow username
+3. enter a stackoverflow user id
 4. create and update [configuration](https://github.com/lfender6445/auto_pilot_demo/blob/master/auto_pilot_config.rb)
 5. resume by running `bundle exec autopilot`
 
